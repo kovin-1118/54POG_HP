@@ -1,0 +1,4 @@
+[0320/190839.854:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: パイプを閉じています。 (0xE8)
+[0320/195137.242:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: パイプを閉じています。 (0xE8)
+[0321/062926.471:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: パイプを閉じています。 (0xE8)
+[0321/064716.284:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: パイプを閉じています。 (0xE8)
